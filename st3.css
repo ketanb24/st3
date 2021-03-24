@@ -1,0 +1,23 @@
+input{
+    font-style: Calibri;
+}
+body{
+    padding: 20px;
+    margin-left: 400px;
+}
+button{
+    background-color: orange;
+}
+form{
+    background-color: skyblue;
+    border: solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 30%;
+    height: 60%;
+    text-align: center;
+
+}
+hr{
+    color: black;
+}
